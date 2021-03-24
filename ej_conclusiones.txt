@@ -1,0 +1,1 @@
+Actualizar soporte para SQL Server 2014 (Service Pack). Realizar respaldos a las bases de datos, ya que no se observan respaldos de forma local, lo que es de alto riesgo ante eventualidades. Sólo se encuentra estrategia de respaldo ubicada en disco por red (Z:) (\\backup-nielol) la cual consiste en sacar respaldos diferenciales y full de las bases de datos.
